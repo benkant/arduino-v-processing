@@ -1,0 +1,4 @@
+iirc you hook up your Arduino via USB and run SlowPrimeCalculator.pde
+Then hook up ArduinoVersusMacPrimer.pde in Processing
+
+But it's been a few months so I could be wrong.
